@@ -1,0 +1,10 @@
+librosa 
+pandas 
+numpy 
+matplotlib 
+seaborn
+scipy 
+scikit-learn 
+pywavelets 
+tensorflow 
+tensorflow-hub 
